@@ -89,6 +89,10 @@ As the business, I want purchase requests to be automatically routed to the appr
 - Requests not meeting those conditions shall bypass the unnecessary approval stage.
 - Routing actions shall be recorded in the workflow history.
 
+
+## US-AI-01 – AI-Assisted Document Validation
+
+As a requester, I want AI assistance to review my uploaded supporting documents before submission so that I can identify and correct missing information before the purchase request enters the approval workflow.
 ## Note
 
 Exact approval thresholds, reminder timelines and escalation conditions would require stakeholder confirmation before implementation.
