@@ -17,6 +17,9 @@ The following business rules define the conditions and controls governing the pr
 | BRUL-09 | Requesters shall be able to view the current status and approval stage of their purchase request. |
 | BRUL-10 | Approval, rejection, return, correction, and resubmission actions shall be recorded in the workflow audit history. |
 
+BR-AI-01 – Human Verification
+AI-generated suggestions must be reviewed by the requester. Final approval or rejection decisions must remain with authorized human approvers.
+
 ## Rules Requiring Stakeholder Confirmation
 
 Before implementation, the following details would need to be confirmed with the relevant business stakeholders:
