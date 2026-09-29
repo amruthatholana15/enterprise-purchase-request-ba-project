@@ -92,6 +92,8 @@ As the business, I want purchase requests to be automatically routed to the appr
 
 ## US-AI-01 – AI-Assisted Document Validation
 
+**User Story**
+
 As a requester, I want AI assistance to review my uploaded supporting documents before submission so that I can identify and correct missing information before the purchase request enters the approval workflow.
 
 **Acceptance Criteria**
