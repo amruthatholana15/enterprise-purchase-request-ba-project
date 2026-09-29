@@ -78,6 +78,11 @@ Once all applicable approval stages are completed, the purchase request reaches 
 
 The requester receives confirmation of completion.
 
+### 8. AI-Assisted Document Validation — Future Enhancement
+
+As a future enhancement, ProcureFlow can use AI to review uploaded quotations and supporting documents before submission. The AI can identify potentially missing information, extract relevant details, and guide the requester to correct issues before submitting the purchase request.
+AI-generated suggestions must be reviewed by the requester, and all approval or rejection decisions remain with authorized human approvers.
+
 ## TO-BE Process Flow
 
 Requester Creates PR  
