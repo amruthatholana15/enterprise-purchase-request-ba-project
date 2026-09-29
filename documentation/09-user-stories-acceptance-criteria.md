@@ -93,6 +93,16 @@ As the business, I want purchase requests to be automatically routed to the appr
 ## US-AI-01 – AI-Assisted Document Validation
 
 As a requester, I want AI assistance to review my uploaded supporting documents before submission so that I can identify and correct missing information before the purchase request enters the approval workflow.
+
+**Acceptance Criteria**
+
+- AI reviews uploaded quotations and supporting documents.
+- AI identifies potentially missing or incomplete information.
+- AI displays suggestions to the requester before submission.
+- The requester can review and correct the information.
+- Low-confidence or uncertain results are flagged for manual review.
+- AI cannot approve or reject a purchase request.
+
 ## Note
 
 Exact approval thresholds, reminder timelines and escalation conditions would require stakeholder confirmation before implementation.
